@@ -11,6 +11,20 @@
     background-size: cover;
     position: relative;
 }
+
+
+
+
+
+
+
+
+.bannerBgImage{
+    height: 100vh;
+    background: url("./laptop banner image.jpg");
+    background-size: cover;
+    position: relative;
+}
 .bannerText{
     text-align: right;
     position: absolute;
